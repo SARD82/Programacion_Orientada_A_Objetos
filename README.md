@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/46740228.svg)](http://lcp02.fi-b.unam.mx/#)[![DOI](https://zenodo.org/badge/46740228.svg)](http://lcp02.fi-b.unam.mx/#)
 
-# Programacion_Orientada_A_Objetos
+# Programacion Orientada A Objetos
 
 <table>
   <tr>
